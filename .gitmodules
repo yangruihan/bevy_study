@@ -1,0 +1,3 @@
+[submodule "libs/bevy"]
+	path = libs/bevy
+	url = https://github.com/bevyengine/bevy.git

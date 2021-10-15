@@ -1,0 +1,12 @@
+[package]
+name = "bevy_study"
+version = "0.1.0"
+authors = ["ryan <coderyrh9236@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+bevy = { path = "../libs/bevy" }
+
+[workspace]
+members = ["bevy_demo"]
+
