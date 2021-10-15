@@ -1,1 +1,1 @@
-pub use bevy;
+pub extern crate bevy;

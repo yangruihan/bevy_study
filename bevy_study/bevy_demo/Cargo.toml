@@ -7,3 +7,9 @@ edition = "2018"
 
 [dependencies]
 bevy_study = { path = ".." }
+bevy = { path = "../../libs/bevy" }
+rand = "0.8.4"
+
+[[example]]
+name = "hello_ecs"
+path = "examples/hello_ecs.rs"
